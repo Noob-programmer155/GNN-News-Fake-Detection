@@ -3,7 +3,6 @@ Makefile
 *.bat
 *.rst
 _build/**
-_static/**
 _templates/**
 .ipynb_checkpoints/**
 *.pyc
