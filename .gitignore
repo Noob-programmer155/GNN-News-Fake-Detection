@@ -8,3 +8,4 @@ _templates/**
 *.pyc
 *.bib
 main/data/**
+conf.py
