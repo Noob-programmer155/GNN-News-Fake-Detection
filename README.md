@@ -35,3 +35,5 @@ you can check it for further details about this project
 
 
 1. Dou, Y., Shu, K., Xia, C., Yu, P. S., & Sun, L. (2021). User Preference-aware Fake News Detection. Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval. [https://doi.org/10.1145/3404835.3462990](https://doi.org/10.1145/3404835.3462990)
+2. Kipf, T., & Welling, M. (2016). Semi-Supervised Classification with Graph Convolutional Networks. ArXiv: Learning. [http://export.arxiv.org/pdf/1609.02907](http://export.arxiv.org/pdf/1609.02907)
+
